@@ -1,4 +1,4 @@
-# Anna & Gordan's energy registrations
+# Energy registrations
 
 ## Background
 
